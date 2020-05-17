@@ -1,0 +1,14 @@
+.no-data-available {
+    text-align: center;
+  }
+  .dataTables_empty {
+    display: none;
+  }
+
+  .form-row{
+    border: 1px dashed #b2f78d;
+    border-radius: 5px;
+    padding: 2px;
+    margin-bottom: 5px;
+  }
+ 
